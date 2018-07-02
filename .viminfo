@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+:wwq!
 :q!
 
 # Search String History (newest to oldest):
@@ -22,13 +23,19 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/w1.txt
-'1  1  10  ~/w3.txt
-'2  1  2  ~/w2.txt
-'3  8  398  ~/.ssh/authorized_keys
-'4  4  66  ~/.ssh/authorized_keys
+'0  1  4  ~/waraja/w3.txt
+'1  1  5  ~/waraja/w2.txt
+'2  1  3  ~/waraja/w1.txt
+'3  1  13  ~/w1.txt
+'4  1  10  ~/w3.txt
+'5  1  2  ~/w2.txt
+'6  8  398  ~/.ssh/authorized_keys
+'7  4  66  ~/.ssh/authorized_keys
 
 # Jumplist (newest first):
+-'  1  4  ~/waraja/w3.txt
+-'  1  5  ~/waraja/w2.txt
+-'  1  3  ~/waraja/w1.txt
 -'  1  13  ~/w1.txt
 -'  1  10  ~/w3.txt
 -'  1  2  ~/w2.txt
@@ -84,8 +91,66 @@
 -'  8  398  ~/.ssh/authorized_keys
 -'  4  0  ~/.ssh/authorized_keys
 -'  1  0  ~/.ssh/authorized_keys
+-'  1  13  ~/w1.txt
+-'  1  10  ~/w3.txt
+-'  1  2  ~/w2.txt
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  1  2  ~/w2.txt
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  1  10  ~/w3.txt
+-'  1  2  ~/w2.txt
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
+-'  4  0  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  8  398  ~/.ssh/authorized_keys
 
 # History of marks within files (newest to oldest):
+
+> ~/waraja/w3.txt
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/waraja/w2.txt
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/waraja/w1.txt
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/w1.txt
 	"	1	13
