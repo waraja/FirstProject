@@ -23,17 +23,20 @@
 # Registers:
 
 # File marks:
-'0  2  7  ~/waraja/w4.txt
-'1  1  4  ~/waraja/w3.txt
-'2  1  5  ~/waraja/w2.txt
-'3  1  3  ~/waraja/w1.txt
-'4  1  13  ~/w1.txt
-'5  1  10  ~/w3.txt
-'6  1  2  ~/w2.txt
-'7  8  398  ~/.ssh/authorized_keys
-'8  4  66  ~/.ssh/authorized_keys
+'0  1  7  ~/waraja/w6.txt
+'1  1  6  ~/waraja/w5.txt
+'2  2  7  ~/waraja/w4.txt
+'3  1  4  ~/waraja/w3.txt
+'4  1  5  ~/waraja/w2.txt
+'5  1  3  ~/waraja/w1.txt
+'6  1  13  ~/w1.txt
+'7  1  10  ~/w3.txt
+'8  1  2  ~/w2.txt
+'9  8  398  ~/.ssh/authorized_keys
 
 # Jumplist (newest first):
+-'  1  7  ~/waraja/w6.txt
+-'  1  6  ~/waraja/w5.txt
 -'  2  7  ~/waraja/w4.txt
 -'  1  0  ~/waraja/w4.txt
 -'  1  4  ~/waraja/w3.txt
@@ -130,9 +133,20 @@
 -'  8  398  ~/.ssh/authorized_keys
 -'  4  0  ~/.ssh/authorized_keys
 -'  1  0  ~/.ssh/authorized_keys
--'  8  398  ~/.ssh/authorized_keys
 
 # History of marks within files (newest to oldest):
+
+> ~/waraja/w6.txt
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/waraja/w5.txt
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
 
 > ~/waraja/w4.txt
 	"	2	7
